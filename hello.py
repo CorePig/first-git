@@ -1,6 +1,6 @@
 print("Hello Git")
-print("Hello Git")
-print("Hello Git")
+print("Hello brothor")
+print("Hello sister")
 print("Hello Git")
 print("Hello Git")
 print("Hello Git")
