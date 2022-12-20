@@ -1,6 +1,6 @@
 print("Hello Git")
-print("Hello Git")
-print("Hello Git")
+print("Hello Lucy")
+print("Hello Join")
 print("Hello Git")
 print("Hello Git")
 print("Hello Git")
